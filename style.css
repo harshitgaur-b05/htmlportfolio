@@ -37,8 +37,9 @@ nav ul li a:hover {
 }
 
 section {
-    padding: 4rem 1rem;
+    padding-top: 14vh;
     text-align: center;
+    padding-bottom: 14vh;
 }
 
 .project {
